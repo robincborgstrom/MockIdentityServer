@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jK5hxCvMTnlj1HxUZnL3L16yRcg5VODpurTuX41ijrE=",
+  "Source": "MockIdentityServer",
+  "BasePath": "_content/MockIdentityServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
